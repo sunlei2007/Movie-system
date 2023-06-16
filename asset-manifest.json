@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sunlei2007/Movie-system/static/css/main.ac7e1b92.css",
-    "main.js": "/sunlei2007/Movie-system/static/js/main.831d26b3.js",
-    "index.html": "/sunlei2007/Movie-system/index.html",
-    "main.ac7e1b92.css.map": "/sunlei2007/Movie-system/static/css/main.ac7e1b92.css.map",
-    "main.831d26b3.js.map": "/sunlei2007/Movie-system/static/js/main.831d26b3.js.map"
+    "main.css": "/Movie-system/static/css/main.ac7e1b92.css",
+    "main.js": "/Movie-system/static/js/main.831d26b3.js",
+    "index.html": "/Movie-system/index.html",
+    "main.ac7e1b92.css.map": "/Movie-system/static/css/main.ac7e1b92.css.map",
+    "main.831d26b3.js.map": "/Movie-system/static/js/main.831d26b3.js.map"
   },
   "entrypoints": [
     "static/css/main.ac7e1b92.css",
